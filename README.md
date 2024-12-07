@@ -6,8 +6,6 @@ Hello, I'm **Viish** – a Computer Science enthusiast diving deep into **C** an
 
 [Join my Discord Server](https://discord.gg/bumblebee)
 
-![Discord Badge](https://discord.c99.nl/widget/theme-2/560115112078475266.png)
-
 ---
 
 ## About Me
@@ -22,7 +20,7 @@ Hello, I'm **Viish** – a Computer Science enthusiast diving deep into **C** an
 ### Bumblebee Bot
 A multi-purpose Discord bot designed for **server management at its peak**. Explore the bot's features and commands.
 
-[![Bumblebee Bot](https://media.discordapp.net/attachments/1129748543222059029/1169237406067736627/image.png?ex=6554ac30&is=65423730&hm=af714b0e1f66681e0fa63002adb62b72b9733733dc50c81de3cbad074fc83bc7&=&width=1440&height=178)](https://discord.gg/bumblebee)
+[Bumblebee Bot](https://discord.gg/bumblebee)
 
 Check out the repository: [Bumblebee GitHub Repository](https://github.com/Viish/Bumblebee)
 

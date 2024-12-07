@@ -1,29 +1,70 @@
----
-# **Arypton's Profile**
+# Viish's Profile
 
-## **Introduction**
+## Introduction
 
-Greetings, I am Arypton, an ambitious Computer Science scholar deeply immersed in the world of technology and programming. Welcome to my Discord profile.
+Hello, I'm **Viish** – a Computer Science enthusiast diving deep into **C** and **Java**. Currently honing my programming skills while working on innovative projects. Welcome to my GitHub profile!
 
-[Join my Discord Server](https://discord.gg/9qC6gSPj88)
+[Join my Discord Server](https://discord.gg/bumblebee)
 
 ![Discord Badge](https://discord.c99.nl/widget/theme-2/560115112078475266.png)
 
-## **About Me**
+---
 
-- I am presently engaged in refining my expertise in C and Java, constantly pushing my boundaries in pursuit of excellence.
-- My unwavering enthusiasm for all facets of technology serves as the driving force behind my relentless quest for knowledge and innovative solutions.
+## About Me
 
-## **Projects**
+- **Age**: 19 years old
+- Passionate about **technology** and **programming**.
+- Focused on mastering **C**, **Java**, and **software development**.
+- Constantly exploring new domains in **AI**, **Machine Learning**, and **Full-stack Development**.
 
-Dive into my most recent endeavor, "Resist," a tangible manifestation of my unwavering commitment and creative prowess.
+## Projects
 
-[![Resist Project](https://media.discordapp.net/attachments/1129748543222059029/1169237406067736627/image.png?ex=6554ac30&is=65423730&hm=af714b0e1f66681e0fa63002adb62b72b9733733dc50c81de3cbad074fc83bc7&=&width=1440&height=178)](https://discord.gg/9qC6gSPj88)
+### Bumblebee Bot
+A multi-purpose Discord bot designed for **server management at its peak**. Explore the bot's features and commands.
 
-## **Connect with Me**
+[![Bumblebee Bot](https://media.discordapp.net/attachments/1129748543222059029/1169237406067736627/image.png?ex=6554ac30&is=65423730&hm=af714b0e1f66681e0fa63002adb62b72b9733733dc50c81de3cbad074fc83bc7&=&width=1440&height=178)](https://discord.gg/bumblebee)
 
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/560115112078475266)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_arypton)
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@arypton.)
+Check out the repository: [Bumblebee GitHub Repository](https://github.com/Viish/Bumblebee)
 
 ---
+
+## Technologies & Skills
+
+- **Languages**: JavaScript, C, Java
+- **Libraries**: Discord.js, Node.js
+- **Tools**: Git, GitHub, Docker, VS Code
+
+---
+
+## Connect with Me
+
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1156173961034465333)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_viish)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@viish_sensei)
+
+---
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes and commit them (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a Pull Request.
+
+---
+
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+
+---
+
+## Acknowledgements
+
+- Thanks to the **open-source community** for the tools and libraries I use.
+- Special thanks to **Discord.js** for the amazing bot framework.
+
+---
+
+**Feel free to reach out to me for collaboration, questions, or any suggestions.**

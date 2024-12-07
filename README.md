@@ -1,95 +1,89 @@
-# Viish's Profile
+---
 
-## Introduction
+# 🌟 Viish's Profile  
 
-Hello, I'm **Viish** – a Computer Science enthusiast diving deep into **C** and **Java**. Currently honing my programming skills while working on innovative projects. Welcome to my GitHub profile!
+## 👋 Introduction  
 
-[Join my Discord Server](https://discord.gg/bumblebee)
+Hi, I'm **Viish** – a passionate Computer Science enthusiast delving into the intricacies of **C** and **Java**. I love solving problems, building innovative projects, and exploring the ever-evolving world of technology. Welcome to my GitHub corner!  
+
+[✨ Join my Discord Server](https://discord.gg/bumblebee)  
 
 ---
 
-## About Me
+## 📜 About Me  
 
-- **Age**: 19 years old
-- Passionate about **technology** and **programming**.
-- Focused on mastering **C**, **Java**, and **software development**.
-- Constantly exploring new domains in **AI**, **Machine Learning**, and **Full-stack Development**.
-
-## Projects
-
-### Bumblebee Bot
-A multi-purpose Discord bot designed for **server management at its peak**. Explore the bot's features and commands.
-
-[Bumblebee Bot](https://discord.gg/bumblebee)
-
-Check out the repository: [Bumblebee GitHub Repository](https://github.com/Viish/Bumblebee)
+- **Age**: 19  
+- A tech enthusiast with a zeal for **programming** and **software development**.  
+- Proficient in **C**, **Java**, and embracing the challenges of **AI**, **Machine Learning**, and **Full-stack Development**.  
+- Always learning, building, and growing!  
 
 ---
 
-## Technologies & Skills
+## 🚀 Featured Project  
 
-- **Languages**: JavaScript, C, Java
-- **Libraries**: Discord.js, Node.js
-- **Tools**: Git, GitHub, Docker, VS Code
+### **Bumblebee Bot**  
+A multi-purpose Discord bot built to revolutionize **server management**. Whether it's moderation or fun features, Bumblebee has you covered!  
 
----
-
-## Connect with Me
-
-- [![LinkTree](https://img.shields.io/badge/LinkTree-%237289DA.svg?logo=linktree&logoColor=white)](https://guns.lol/viish)
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1156173961034465333)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_viish)
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@viish_sensei)
+🔗 [Explore Bumblebee Bot](https://discord.gg/bumblebee)  
+📂 [GitHub Repository](https://github.com/Viish/Bumblebee)  
 
 ---
 
-## How to Contribute
+## 🛠️ Technologies & Skills  
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
+### Languages  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-### Tools
+### Tools & Frameworks  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SandboxCode](https://img.shields.io/badge/SandboxCode-000000?style=for-the-badge&logo=sandbox&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)
-![Brackets](https://img.shields.io/badge/Brackets-F48024?style=for-the-badge&logo=brackets&logoColor=white)
+### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-
-### Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### Cloud & Hosting
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Galaxy Gate](https://img.shields.io/badge/Galaxy%20Gate-000000?style=for-the-badge&logo=galaxy&logoColor=white)
-![Pterotcyl](https://img.shields.io/badge/Pterotcyl-FF4F00?style=for-the-badge&logo=pterodactyl&logoColor=white)
-
-
-## License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+### Platforms  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)  
 
 ---
 
-## Acknowledgements
+## 📡 Connect With Me  
 
-- Thanks to the **open-source community** for the tools and libraries I use.
-- Special thanks to **Discord.js** for the amazing bot framework.
+- [![LinkTree](https://img.shields.io/badge/LinkTree-%237289DA.svg?logo=linktree&logoColor=white)](https://guns.lol/viish)  
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1156173961034465333)  
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_viish)  
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@viish_sensei)  
 
 ---
 
-**Feel free to reach out to me for collaboration, questions, or any suggestions.**
+## 🌟 Contribution Guide  
+
+1. Fork the repository.  
+2. Create a new branch (`git checkout -b feature/your-feature`).  
+3. Implement your changes and commit (`git commit -m "Add feature"`).  
+4. Push the branch (`git push origin feature/your-feature`).  
+5. Open a Pull Request!  
+
+---
+
+## 📄 License  
+
+Distributed under the **MIT License**. For more details, refer to the [LICENSE](LICENSE) file.  
+
+---
+
+## 🙏 Acknowledgements  
+
+A heartfelt thanks to the **open-source community** for their incredible tools and resources. Special recognition to **Discord.js** for its robust framework.  
+
+---
+
+✨ *Feel free to connect or collaborate!*

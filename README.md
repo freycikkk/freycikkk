@@ -51,6 +51,18 @@ Check out the repository: [Bumblebee GitHub Repository](https://github.com/Viish
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
 
+### Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SandboxCode](https://img.shields.io/badge/SandboxCode-000000?style=for-the-badge&logo=sandbox&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)
+![Brackets](https://img.shields.io/badge/Brackets-F48024?style=for-the-badge&logo=brackets&logoColor=white)
+
+
 ### Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

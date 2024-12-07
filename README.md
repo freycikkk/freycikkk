@@ -53,6 +53,15 @@ Check out the repository: [Bumblebee GitHub Repository](https://github.com/Viish
 
 ---
 
+### Cloud & Hosting
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Galaxy Gate](https://img.shields.io/badge/Galaxy%20Gate-000000?style=for-the-badge&logo=galaxy&logoColor=white)
+![Pterotcyl](https://img.shields.io/badge/Pterotcyl-FF4F00?style=for-the-badge&logo=pterodactyl&logoColor=white)
+
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.

@@ -24,8 +24,8 @@ Hi, I'm **Viish** – a passionate Computer Science enthusiast delving into the 
 ### **Bumblebee Bot**  
 A multi-purpose Discord bot built to revolutionize **server management**. Whether it's moderation or fun features, Bumblebee has you covered!  
 
-🔗 [Explore Bumblebee Bot](https://discord.gg/bumblebee)  
-📂 [GitHub Repository](https://github.com/Viish/Bumblebee)  
+🔗 [Explore Bumblebee Bot](https://bumblebeebot.xyz/)  
+📂 [GitHub Repository](https://github.com/ViishSensei/Bumblebee-Code)  
 
 ---
 
@@ -48,10 +48,14 @@ A multi-purpose Discord bot built to revolutionize **server management**. Whethe
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JoshDB](https://img.shields.io/badge/JoshDB-800080?style=for-the-badge&logo=joshdb&logoColor=white)
 
-### Platforms  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)  
+### Hosting  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Galaxy Gate](https://img.shields.io/badge/Galaxy%20Gate-000000?style=for-the-badge&logo=galaxy&logoColor=white)
+![Pterotcyl](https://img.shields.io/badge/Pterotcyl-FF4F00?style=for-the-badge&logo=pterodactyl&logoColor=white)
 
 ---
 
@@ -71,12 +75,6 @@ A multi-purpose Discord bot built to revolutionize **server management**. Whethe
 3. Implement your changes and commit (`git commit -m "Add feature"`).  
 4. Push the branch (`git push origin feature/your-feature`).  
 5. Open a Pull Request!  
-
----
-
-## 📄 License  
-
-Distributed under the **MIT License**. For more details, refer to the [LICENSE](LICENSE) file.  
 
 ---
 

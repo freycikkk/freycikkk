@@ -36,6 +36,7 @@ Check out the repository: [Bumblebee GitHub Repository](https://github.com/Viish
 
 ## Connect with Me
 
+- [![LinkTree](https://img.shields.io/badge/LinkTree-%237289DA.svg?logo=linktree&logoColor=white)](https://guns.lol/viish)
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1156173961034465333)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_viish)
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@viish_sensei)

@@ -27,7 +27,27 @@ A multi-purpose Discord bot built to revolutionize **server management**. Whethe
 🔗 [Explore Bumblebee Bot](https://bumblebeebot.xyz/)  
 📂 [GitHub Repository](https://github.com/ViishSensei/Bumblebee-Code)  
 
+---Here's the updated section with GitHub links for your closed projects, assuming you have repositories for them:
+
 ---
+
+## 🔒 Closed Projects
+
+### **Rapid**  
+A high-speed solution designed for fast-paced automation and management tasks. **Rapid** helped streamline various workflows with its optimized performance.  
+
+📂 [GitHub Repository](https://github.com/ViishSensei/Rapid)
+
+---
+
+### **Resist**  
+A powerful tool built to help users combat server invasions and external threats, focusing on **resistance and security**.  
+
+📂 [GitHub Repository](https://github.com/ViishSensei/Resist-Code-v14)
+
+---
+
+Let me know if you need further adjustments!
 
 ## 🛠️ Technologies & Skills  
 

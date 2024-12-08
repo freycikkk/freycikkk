@@ -27,8 +27,6 @@ A multi-purpose Discord bot built to revolutionize **server management**. Whethe
 🔗 [Explore Bumblebee Bot](https://bumblebeebot.xyz/)  
 📂 [GitHub Repository](https://github.com/ViishSensei/Bumblebee-Code)  
 
----Here's the updated section with GitHub links for your closed projects, assuming you have repositories for them:
-
 ---
 
 ## 🔒 Closed Projects
@@ -46,8 +44,6 @@ A powerful tool built to help users combat server invasions and external threats
 📂 [GitHub Repository](https://github.com/ViishSensei/Resist-Code-v14)
 
 ---
-
-Let me know if you need further adjustments!
 
 ## 🛠️ Technologies & Skills  
 

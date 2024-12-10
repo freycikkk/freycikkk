@@ -1,5 +1,5 @@
 ---
-
+![](https://komarev.com/ghpvc/?username=ViishSensei&abbreviated=true&color=red&style=plastic)
 # 🌟 Viish's Profile  
 
 ## 👋 Introduction  

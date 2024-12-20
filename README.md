@@ -1,6 +1,6 @@
 
 <p align = "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ViishSensei"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ViishSensei&section=header&reversal=true"/>
 </p>
 
 ---

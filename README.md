@@ -1,3 +1,8 @@
+
+<p align = "center">
+    <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Painfuego&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ViishSensei)"/>
+</p>
+
 ---
 ![](https://komarev.com/ghpvc/?username=ViishSensei&abbreviated=true&color=red&style=plastic)
 # 🌟 Viish's Profile  

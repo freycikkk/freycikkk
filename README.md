@@ -2,8 +2,6 @@
 <p align = "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ViishSensei&section=header&reversal=true"/>
 </p>
-
----
 ![](https://komarev.com/ghpvc/?username=ViishSensei&abbreviated=true&color=red&style=plastic)
 # 🌟 Viish's Profile  
 

@@ -25,6 +25,10 @@ Hi, I'm **Viish** – a passionate Computer Science enthusiast delving into the 
 ### **Bumblebee Bot**  
 A multi-purpose Discord bot built to revolutionize **server management**. Whether it's moderation or fun features, Bumblebee has you covered!  
 
+<a href="https://top.gg/bot/1232384723188449283">
+  <img src="https://top.gg/api/widget/1232384723188449283.svg">
+</a>
+
 🔗 [Explore Bumblebee Bot](https://bumblebeebot.xyz/)  
 📂 [GitHub Repository](https://github.com/ViishSensei/Bumblebee-Code)  
 

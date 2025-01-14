@@ -4,7 +4,7 @@
 </p>
 
 <p align = "center">
-    <img src="https://open.spotify.com/embed/track/383EQ8PDAlqzSe4ayyn2Ct?utm_source=generator"/>
+    <frame src="https://open.spotify.com/embed/track/383EQ8PDAlqzSe4ayyn2Ct?utm_source=generator"/>
 </p>
 
 ## 👋 Introduction  

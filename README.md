@@ -3,7 +3,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ViishSensei&section=header&reversal=true"/>
 </p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/383EQ8PDAlqzSe4ayyn2Ct?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p align = "center">
+    <img src="https://open.spotify.com/embed/track/383EQ8PDAlqzSe4ayyn2Ct?utm_source=generator"/>
+</p>
 
 ## 👋 Introduction  
 

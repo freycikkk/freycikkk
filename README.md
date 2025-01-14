@@ -3,10 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ViishSensei&section=header&reversal=true"/>
 </p>
 
-<p align = "center">
-    <frame src="https://open.spotify.com/embed/track/383EQ8PDAlqzSe4ayyn2Ct?utm_source=generator"/>
-</p>
-
 ## 👋 Introduction  
 
 Hi, I'm **Viish** – a passionate Computer Science enthusiast delving into the intricacies of **C** and **Java**. I love solving problems, building innovative projects, and exploring the ever-evolving world of technology. Welcome to my GitHub corner!  

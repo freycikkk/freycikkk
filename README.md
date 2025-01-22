@@ -15,7 +15,7 @@ Hi, I'm **Viish** – a passionate Computer Science enthusiast delving into the 
 
 - **Age**: 19  
 - A tech enthusiast with a zeal for **programming** and **software development**.  
-- Proficient in **C**, **Java**, and embracing the challenges of **AI**, **Machine Learning**, and **Full-stack Development**.  
+- Proficient in JavaScript (JS) and TypeScript (TS), with basic understanding in Python (Py), Java, and C++.
 - Always learning, building, and growing!  
 
 ---

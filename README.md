@@ -105,6 +105,11 @@ A heartfelt thanks to the **open-source community** for their incredible tools a
 
 ---
 
+<p align = "center">
+    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=ViishSensei&include_all_commits=true&count_private=true&theme=dracula"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViishSensei&layout=compact&langs_count=3&theme=dracula"/>
+</p>
+
 ✨ *Feel free to connect or collaborate!*
 
 ![](https://komarev.com/ghpvc/?username=ViishSensei&abbreviated=true&color=red&style=plastic)

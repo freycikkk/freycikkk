@@ -5,7 +5,7 @@
 
 ## 👋 Introduction  
 
-Hi, I'm **Viish** – a passionate Computer Science enthusiast delving into the intricacies of **C** and **Java**. I love solving problems, building innovative projects, and exploring the ever-evolving world of technology. Welcome to my GitHub corner!  
+Hi, I'm **Freycikkk** – a passionate Computer Science enthusiast delving into the intricacies of **C** and **Java**. I love solving problems, building innovative projects, and exploring the ever-evolving world of technology. Welcome to my GitHub corner!  
 
 [✨ Join my Discord Server](https://discord.gg/bumblebee)  
 
@@ -30,7 +30,7 @@ A multi-purpose Discord bot built to revolutionize **server management**. Whethe
 </a>
 
 🔗 [Explore Bumblebee Bot](https://bumblebeebot.xyz/)  
-📂 [GitHub Repository](https://github.com/ViishSensei/Bumblebee-Code)  
+📂 [GitHub Repository](https://github.com/freycikkk/Bumblebee-Code)  
 
 ---
 
@@ -39,14 +39,14 @@ A multi-purpose Discord bot built to revolutionize **server management**. Whethe
 ### **Rapid**  
 A high-speed solution designed for fast-paced automation and management tasks. **Rapid** helped streamline various workflows with its optimized performance.  
 
-📂 [GitHub Repository](https://github.com/ViishSensei/Rapid)
+📂 [GitHub Repository](https://github.com/freycikkk/Rapid)
 
 ---
 
 ### **Resist**  
 A powerful tool built to help users combat server invasions and external threats, focusing on **resistance and security**.  
 
-📂 [GitHub Repository](https://github.com/ViishSensei/Resist-Code-v14)
+📂 [GitHub Repository](https://github.com/freycikkk/Resist-Code-v14)
 
 ---
 
@@ -82,10 +82,10 @@ A powerful tool built to help users combat server invasions and external threats
 
 ## 📡 Connect With Me  
 
-- [![LinkTree](https://img.shields.io/badge/LinkTree-%237289DA.svg?logo=linktree&logoColor=white)](https://guns.lol/viish)  
+- [![LinkTree](https://img.shields.io/badge/LinkTree-%237289DA.svg?logo=linktree&logoColor=white)](https://guns.lol/freycikkk)  
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1156173961034465333)  
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_viish)  
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@viish_sensei)  
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_freycikkk)  
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@freycikkk)  
 
 ---
 
@@ -106,10 +106,10 @@ A heartfelt thanks to the **open-source community** for their incredible tools a
 ---
 
 <p align = "center">
-    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=ViishSensei&include_all_commits=true&count_private=true&theme=dracula"/>
-    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViishSensei&layout=compact&langs_count=3&theme=dracula"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=freycikkk&include_all_commits=true&count_private=true&theme=dracula"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freycikkk&layout=compact&langs_count=3&theme=dracula"/>
 </p>
 
 ✨ *Feel free to connect or collaborate!*
 
-![](https://komarev.com/ghpvc/?username=ViishSensei&abbreviated=true&color=red&style=plastic)
+![](https://komarev.com/ghpvc/?username=freycikkk&abbreviated=true&color=red&style=plastic)

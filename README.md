@@ -105,6 +105,9 @@ A heartfelt thanks to the **open-source community** for their incredible tools a
 
 ---
 
+# Discord Status:
+[![Discord Presence](https://lanyard.cnrad.dev/api/1156173961034465333?showDisplayName=true&hideSpotify=true&hideActivity=true)](https://discord.com/users/1156173961034465333)
+
 <p align = "center">
     <img height="135em" src="https://github-readme-stats.vercel.app/api?username=freycikkk&include_all_commits=true&count_private=true&theme=dracula"/>
     <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freycikkk&layout=compact&langs_count=3&theme=dracula"/>

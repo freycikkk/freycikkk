@@ -16,13 +16,7 @@ I'm a **software developer** with a focus on **problem-solving, automation, and 
 
 A **next-gen Discord bot** for **server management, automation, and moderation**.
 
-<p align="center">
-    <a href="https://top.gg/bot/1232384723188449283">
-        <img src="https://top.gg/api/widget/1232384723188449283.svg">
-    </a>
-</p>
-
-[Explore Bumblebee](https://bumblebeebot.xyz/) | [GitHub Repository](https://github.com/freycikkk/Bumblebee-Code)
+[Explore Bumblebee](https://bumblebeebot.xyz/) | [GitHub Repository](https://github.com/freycikkk/Bumblebee-Typescript)
 
 ---
 
